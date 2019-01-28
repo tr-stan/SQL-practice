@@ -1,0 +1,4 @@
+CREATE TABLE Artists (
+	artist_ID INT PRIMARY KEY NOT NULL,
+	artist_name VARCHAR(255) NOT NULL
+)
